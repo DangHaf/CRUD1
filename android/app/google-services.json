@@ -1,0 +1,322 @@
+{
+  "project_info": {
+    "project_number": "1063055591945",
+    "project_id": "p30nailbook",
+    "storage_bucket": "p30nailbook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063055591945:android:5d3feb516944f2d3cb46d8",
+        "android_client_info": {
+          "package_name": "io.izisoft.p30nail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063055591945-l46q08gdcg6efgtiq6deasgg9msd1u7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCrErIL4D3JdZ7pTX1m1kbwCn5BjkjP7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063055591945-l46q08gdcg6efgtiq6deasgg9msd1u7c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1063055591945-39kma70jaea6k4ck61mv4hj8nieua1jk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.izisoft.p30nailbook"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063055591945:android:7fc3a48aeef00b55cb46d8",
+        "android_client_info": {
+          "package_name": "io.izisoft.p30nailbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063055591945-18s8js1h72ptoo6ev8uk5pgakjp8qu3q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.izisoft.p30nailbook",
+            "certificate_hash": "9bc929210e7c44ee7d900c8d77ddecceaa9e20f4"
+          }
+        },
+        {
+          "client_id": "1063055591945-633bqv5nkr6s9p50bj3aqjasrdfnrlgp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.izisoft.p30nailbook",
+            "certificate_hash": "a063c4cad2e22531683bc5ef3d807d5ba3c2a566"
+          }
+        },
+        {
+          "client_id": "1063055591945-6ffhrsk6lo4e09vk5m5gkkjegahqlsu7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.izisoft.p30nailbook",
+            "certificate_hash": "0152fd20eb64a198fc6511114bc83d2d5917c456"
+          }
+        },
+        {
+          "client_id": "1063055591945-6ukihk5k083lcpj8f0uv6hjjpk2r8s36.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.izisoft.p30nailbook",
+            "certificate_hash": "2cfd9451e50a36a59aba2e09c7c1ddfeca481b22"
+          }
+        },
+        {
+          "client_id": "1063055591945-l46q08gdcg6efgtiq6deasgg9msd1u7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCrErIL4D3JdZ7pTX1m1kbwCn5BjkjP7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063055591945-l46q08gdcg6efgtiq6deasgg9msd1u7c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1063055591945-39kma70jaea6k4ck61mv4hj8nieua1jk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.izisoft.p30nailbook"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063055591945:android:ea1495e2584b3995cb46d8",
+        "android_client_info": {
+          "package_name": "io.izisoft.p30nailbookcustomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063055591945-3b4mscuhbeo1vnep20a0434rvbjabdr0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.izisoft.p30nailbookcustomer",
+            "certificate_hash": "a063c4cad2e22531683bc5ef3d807d5ba3c2a566"
+          }
+        },
+        {
+          "client_id": "1063055591945-c0215spa1h7376s24aoongucsf0tg0oj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.izisoft.p30nailbookcustomer",
+            "certificate_hash": "a619e1059673399fe6e653cfd415cab61cde6a0b"
+          }
+        },
+        {
+          "client_id": "1063055591945-f584qt1lt3ttqeibe823f838sjo0js8s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.izisoft.p30nailbookcustomer",
+            "certificate_hash": "0152fd20eb64a198fc6511114bc83d2d5917c456"
+          }
+        },
+        {
+          "client_id": "1063055591945-qo313ec8gq9rgeemtpnpkeeb5an2fuvk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.izisoft.p30nailbookcustomer",
+            "certificate_hash": "5ac4138b40d17436a311f92d0faf3fe91da80808"
+          }
+        },
+        {
+          "client_id": "1063055591945-l46q08gdcg6efgtiq6deasgg9msd1u7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCrErIL4D3JdZ7pTX1m1kbwCn5BjkjP7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063055591945-l46q08gdcg6efgtiq6deasgg9msd1u7c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1063055591945-39kma70jaea6k4ck61mv4hj8nieua1jk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.izisoft.p30nailbook"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063055591945:android:6f5f034505ec5105cb46d8",
+        "android_client_info": {
+          "package_name": "io.izisoft.p30nailsupply"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063055591945-l46q08gdcg6efgtiq6deasgg9msd1u7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCrErIL4D3JdZ7pTX1m1kbwCn5BjkjP7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063055591945-l46q08gdcg6efgtiq6deasgg9msd1u7c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1063055591945-39kma70jaea6k4ck61mv4hj8nieua1jk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.izisoft.p30nailbook"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063055591945:android:4cff4c07b8fd1c84cb46d8",
+        "android_client_info": {
+          "package_name": "io.izisoft.p30nailwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063055591945-62jjci6t7tabo678buljlj2705gi7lue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.izisoft.p30nailwork",
+            "certificate_hash": "0152fd20eb64a198fc6511114bc83d2d5917c456"
+          }
+        },
+        {
+          "client_id": "1063055591945-cqdkmrm071jsu8qcqebu1v25ceau0ek8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.izisoft.p30nailwork",
+            "certificate_hash": "5ac4138b40d17436a311f92d0faf3fe91da80808"
+          }
+        },
+        {
+          "client_id": "1063055591945-lc7neb6v6ce84p580mioti6q6h6c95jh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.izisoft.p30nailwork",
+            "certificate_hash": "525294bbf66820f8cdfa4eadf0b37553127677d2"
+          }
+        },
+        {
+          "client_id": "1063055591945-tdu42kgubt9abjhoel2pvd1usef8qcna.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.izisoft.p30nailwork",
+            "certificate_hash": "c0c082a9f9303d4c452b65cc034d0f032688af8f"
+          }
+        },
+        {
+          "client_id": "1063055591945-l46q08gdcg6efgtiq6deasgg9msd1u7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCrErIL4D3JdZ7pTX1m1kbwCn5BjkjP7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063055591945-l46q08gdcg6efgtiq6deasgg9msd1u7c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1063055591945-39kma70jaea6k4ck61mv4hj8nieua1jk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.izisoft.p30nailbook"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063055591945:android:70a819b8bcc1e9e6cb46d8",
+        "android_client_info": {
+          "package_name": "io.izisoft.p3onighostprank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063055591945-l46q08gdcg6efgtiq6deasgg9msd1u7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCrErIL4D3JdZ7pTX1m1kbwCn5BjkjP7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063055591945-l46q08gdcg6efgtiq6deasgg9msd1u7c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1063055591945-39kma70jaea6k4ck61mv4hj8nieua1jk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.izisoft.p30nailbook"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

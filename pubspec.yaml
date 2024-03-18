@@ -1,0 +1,187 @@
+name: template
+description: A new Flutter project.
+publish_to: "none"
+
+version: 1.0.0+1
+# Local database.
+# isar_version: &isar_version 3.1.0
+
+environment:
+  sdk: ">=3.0.5 <4.0.0"
+
+dependency_overrides:
+  http: ^1.1.0
+  # camera_android:
+  #   git:
+  #     url: https://github.com/TruongAnim/flutter-packages.git
+  #     ref: main # branch name
+  #     path: packages/camera/camera_android
+  google_mobile_ads:
+    git:
+      url: https://github.com/AnhPhon/googleads-mobile-flutter
+      path: packages/google_mobile_ads
+      ref: main
+
+dependencies:
+  flutter_localizations:
+    sdk: flutter
+
+  flutter:
+    sdk: flutter
+
+  # Base API lib.
+  firebase_auth: 4.10.1
+  firebase_core: 2.17.0
+  firebase_messaging: 14.6.9
+  get: ^4.6.6
+  get_it: ^7.2.0
+  dio: ^5.0.2
+
+  # Firebase Remote config.
+  # https://pub.dev/packages/firebase_analytics
+  firebase_analytics: 10.5.1
+
+  # https://pub.dev/packages/firebase_remote_config
+  firebase_remote_config: 4.2.7
+
+  # Base Widget lib.fin
+  avatar_glow: ^2.0.2
+  cached_network_image: ^3.2.0
+  carousel_slider: ^4.0.0
+  connectivity: ^3.0.6
+  cupertino_icons: ^1.0.3
+  currency_text_input_formatter: ^2.1.5
+  file_picker: ^5.2.6
+  permission_handler: ^11.0.0
+  pull_to_refresh: ^2.0.0
+  shared_preferences: ^2.0.6
+  skeleton_loader: ^2.0.0+4
+  tiengviet: ^0.5.0
+  timeago: ^3.1.0
+  flutter_easyloading: ^3.0.3
+  flutter_html: ^3.0.0-beta.2
+  flutter_local_notifications: ^16.0.0+1
+  flutter_native_timezone_updated_gradle: ^2.0.3
+  flutter_masked_text2: ^0.9.1
+  flutter_styled_toast: ^2.1.3
+  flutter_svg: ^2.0.4
+  fluttertoast: ^8.1.1
+  html_unescape: ^2.0.0
+  http: ^1.1.0
+  image_picker: ^1.0.2
+  in_app_review: ^2.0.3
+  intl: 0.18.1
+  jwt_decode: ^0.3.1
+  lint: ^2.0.1
+
+  # Get info device.
+  package_info_plus: ^4.1.0
+
+  # Check device on IO
+  device_info_plus: ^9.0.3
+
+  # Screen util.
+  flutter_screenutil: ^5.8.4
+
+  # Path source.
+  path_provider: ^2.0.14
+
+  # socket
+  socket_io_client: ^2.0.2
+
+  # In app purchase.
+  in_app_purchase: ^3.1.10
+  in_app_purchase_storekit: ^0.3.6+7
+  in_app_purchase_android: ^0.3.0+13
+
+  # Google admod ads.
+  google_mobile_ads: ^3.0.0
+  native_ads_flutter: ^1.0.7
+
+  # Add lottie to animated image/icon. https://pub.dev/packages/lottie
+  lottie: ^2.6.0
+
+  # Get time from internet. https://pub.dev/packages/ntp
+  ntp: ^2.0.0
+
+  # Sound effect. https://pub.dev/packages/audioplayers
+  audioplayers: ^5.2.0
+
+  # Share plus. https://pub.dev/packages/share_plus
+  share_plus: ^7.2.1
+
+  # Camera record. https://pub.dev/packages/camera
+  # camera: ^0.10.5+5
+
+  # Local database. https://pub.dev/packages/isar
+  # isar: *isar_version
+  # isar_flutter_libs: *isar_version # contains Isar Core
+
+  # Custom rate. https://pub.dev/packages/flutter_rating_bar
+  flutter_rating_bar: ^4.0.1
+
+  #url launch
+  url_launcher: ^6.2.1
+
+  # Crashlytics. https://pub.dev/packages/firebase_crashlytics
+  firebase_crashlytics: ^3.3.7
+
+  pin_code_fields: 8.0.1
+  dropdown_button2: 2.3.9
+  google_sign_in: 5.4.4
+  flutter_facebook_auth: 3.5.7
+  the_apple_sign_in: 1.1.1
+  dots_indicator: 3.0.0
+  email_validator: 2.1.17
+  geolocator: 10.1.0
+  google_maps_flutter: 2.5.0
+  flutter_exif_rotation: 0.5.1
+  flutter_paypal_payment: 1.0.6
+  timeline_tile: 2.0.0
+  dotted_border: 2.1.0
+  calendar_date_picker2: 0.5.3
+  scroll_to_index: 3.0.1
+
+
+dev_dependencies:
+  # flutter pub run flutter_launcher_icons:main
+  flutter_launcher_icons: ^0.13.1
+
+  # Local database.
+  # isar_generator: *isar_version
+
+  # fvm flutter pub run build_runner build
+  build_runner: any
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:
+  android: "ic_launcher"
+  ios: true
+  image_path: "assets/base/logo/ic_launcher.jpg"
+
+flutter:
+  uses-material-design: true
+  # generate: true
+  assets:
+    - assets/base/
+    - assets/base/flags/
+    - assets/flags/
+    - assets/base/logo/
+    - assets/features/
+
+  fonts:
+    - family: Nunito
+      fonts:
+        - asset: assets/base/fonts/nunito/Nunito-Light.ttf
+          weight: 300
+        - asset: assets/base/fonts/nunito/Nunito-Regular.ttf
+          weight: 400
+        - asset: assets/base/fonts/nunito/Nunito-SemiBold.ttf
+          weight: 600
+        - asset: assets/base/fonts/nunito/Nunito-Bold.ttf
+          weight: 700
+        - asset: assets/base/fonts/nunito/Nunito-ExtraBold.ttf
+          weight: 800
+        - asset: assets/base/fonts/nunito/Nunito-Black.ttf
+          weight: 900

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1063055591945-h11nrpljteh9q79fg9btmanr77o7m93a.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1063055591945-h11nrpljteh9q79fg9btmanr77o7m93a</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1063055591945-18s8js1h72ptoo6ev8uk5pgakjp8qu3q.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBg9cpCMW93aBcb7K4WAIs-NwQ_pj59nNA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1063055591945</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>io.izisoft.p30nailsupply</string>
+	<key>PROJECT_ID</key>
+	<string>p30nailbook</string>
+	<key>STORAGE_BUCKET</key>
+	<string>p30nailbook.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1063055591945:ios:f6f0189dc4fa2f18cb46d8</string>
+</dict>
+</plist>
